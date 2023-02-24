@@ -1,2 +1,1 @@
-# CS202
-Computer Organization
+# CS202 Computer Organization
