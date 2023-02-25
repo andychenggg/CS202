@@ -24,7 +24,7 @@ Lecture 2 & Lab 2 -- Some instructions in Mips Assembly language.
 
 
 
-# CS209 计算机系统设计与应用
+# CS202 计算机组成原理
 
 ## 本仓库介绍
 
