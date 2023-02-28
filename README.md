@@ -10,7 +10,7 @@ This course is an advanced course of **digital logic**. The main goal is to lear
 
 ## Update Rules
 
-1. I will try my best to update it once a week
+1.I will try my best to update it once a week
 
 ~~2. I will try my best to update it in both Chinese and English~~
 
