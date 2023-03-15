@@ -1,0 +1,7 @@
+debug2:
+	li $v0, 1
+	addi $a0, $t5, 0
+	syscall
+	li $v0, 4
+	la $a0, endline
+	syscall

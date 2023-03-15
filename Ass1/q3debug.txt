@@ -1,0 +1,69 @@
+debug1:	
+	li $v0, 11
+	lbu $a0, strbin
+	syscall
+	lbu $a0, strbin+1
+	syscall
+	lbu $a0, strbin+2
+	syscall
+	lbu $a0, strbin+3
+	syscall
+	lbu $a0, strbin+4
+	syscall
+	lbu $a0, strbin+5
+	syscall
+	lbu $a0, strbin+6
+	syscall
+	lbu $a0, strbin+7
+	syscall
+	lbu $a0, strbin+8
+	syscall
+	lbu $a0, strbin+9
+	syscall
+	lbu $a0, strbin+10
+	syscall
+	lbu $a0, strbin+11
+	syscall
+	lbu $a0, strbin+12
+	syscall
+	lbu $a0, strbin+13
+	syscall
+	lbu $a0, strbin+14
+	syscall
+	lbu $a0, strbin+15
+	syscall
+
+debug2:
+	li $v0, 11
+	lbu $a0, realbin
+	syscall
+	lbu $a0, realbin+1
+	syscall
+	lbu $a0, realbin+2
+	syscall
+	lbu $a0, realbin+3
+	syscall
+	lbu $a0, realbin+4
+	syscall
+	lbu $a0, realbin+5
+	syscall
+	lbu $a0, realbin+6
+	syscall
+	lbu $a0, realbin+7
+	syscall
+	lbu $a0, realbin+8
+	syscall
+	lbu $a0, realbin+9
+	syscall
+	lbu $a0, realbin+10
+	syscall
+	lbu $a0, realbin+11
+	syscall
+	lbu $a0, realbin+12
+	syscall
+	lbu $a0, realbin+13
+	syscall
+	lbu $a0, realbin+14
+	syscall
+	lbu $a0, realbin+15
+	syscall
