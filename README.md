@@ -26,6 +26,10 @@ Lecture 3 & Lab 3 -- more about condition and loops, procedure calling, summary 
 
 Lecture 4 & Lab 4 -- Mips addressing, running a program, RISC-V introduction, directives, memory allocation
 
+Lecture 5 & Lab 5 -- Performance, Energy dissipation, Multiprocessor, Benchmark
+
+Lecture 6 & Lab 6 -- ALU Basic Operation, Overflow, Multiplication, Division
+
 
 # CS202 计算机组成原理
 
@@ -54,3 +58,7 @@ Lecture 4 & Lab 4 -- Mips addressing, running a program, RISC-V introduction, di
 第 3 讲和实验 3 -- 更多关于条件和循环、过程调用、有用指令的总结
 
 第 4 讲和实验 4 -- Mips 寻址、运行程序、RISC-V 介绍、指令、内存分配
+
+第 5 讲和实验 5 -- 性能、能耗、多处理器、基准测试
+
+第 6 讲和实验 6 -- ALU 基本运算、溢出、乘法、除法
